@@ -7,7 +7,7 @@
     <tr align="center">
       <td>
         <font face="Gadugi" color="#002060">
-          <img src="rabello.png">
+          <img src="rabello.png"><br><br>Em desenvolvimento.<br><br><br>Contato: 19 3044.3603.
         </font>
       </td>
     </tr>
